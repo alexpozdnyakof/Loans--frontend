@@ -45,6 +45,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
+ngx-scrollbar
+MIT
+
 @angular/animations
 MIT
 
@@ -682,9 +685,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org>
 
-
-ngx-scrollbar
-MIT
 
 text-mask-core
 Unlicense
