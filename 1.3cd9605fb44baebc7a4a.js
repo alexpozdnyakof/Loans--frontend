@@ -11338,6 +11338,34 @@ var CalculatorComponent = /** @class */ (function () {
                         col_three: 7.25,
                     },
                 },
+                amount_20: {
+                    // до 12 мес
+                    period_one: {
+                        full: 3.75,
+                        col_one: 4.15,
+                        col_two: 5.05,
+                        col_three: 6.55,
+                    },
+                    // 12-36 мес
+                    period_two: {
+                        full: 3.75,
+                        col_one: 4.45,
+                        col_two: 5.35,
+                        col_three: 6.95,
+                    },
+                    period_three: {
+                        full: 3.75,
+                        col_one: 4.65,
+                        col_two: 5.65,
+                        col_three: 7.25,
+                    },
+                    period_fourth: {
+                        full: 3.75,
+                        col_one: 4.65,
+                        col_two: 5.65,
+                        col_three: 7.25,
+                    },
+                },
                 overdraft: {
                     one: 4.05,
                     two: 4.15,
@@ -11527,25 +11555,28 @@ var CalculatorComponent = /** @class */ (function () {
         });
     };
     CalculatorComponent.prototype.rangeSubscribe = function () {
+        var _this = this;
         this.calculator
             .get('range')
             .valueChanges
             .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["distinctUntilChanged"])()).subscribe(function (range) {
-            // this._filterRange(range);
+            _this._filterRange(range);
         });
     };
     CalculatorComponent.prototype._filterRange = function (range) {
         if (!range) {
             return;
         }
+        /*
         if (range < this.range.min) {
-            this.calculator.controls['range'].setValue(this.range.min);
-            return this.calculate();
+          this.calculator.controls['range'].setValue(this.range.min);
+          return this.calculate();
         }
         if (range > this.range.max || range > 60) {
-            this.calculator.controls['range'].setValue(this.range.max);
-            return this.calculate();
+          this.calculator.controls['range'].setValue(this.range.max);
+          return this.calculate();
         }
+        */
         this.calculator.controls['range'].setValue(range);
         return this.calculate();
     };
