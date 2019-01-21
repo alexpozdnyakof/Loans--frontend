@@ -11167,7 +11167,7 @@ function View_CalculatorComponent_1(_l) { return _angular_core__WEBPACK_IMPORTED
     } return ad; }, _modules_forms_checkbox_checkbox_checkbox_component_ngfactory__WEBPACK_IMPORTED_MODULE_4__["View_CheckboxComponent_0"], _modules_forms_checkbox_checkbox_checkbox_component_ngfactory__WEBPACK_IMPORTED_MODULE_4__["RenderType_CheckboxComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](3, 114688, null, 0, _modules_forms_checkbox_checkbox_checkbox_component__WEBPACK_IMPORTED_MODULE_5__["CheckboxComponent"], [], { value: [0, "value"], label: [1, "label"], name: [2, "name"] }, { ClickEvent: "ClickEvent" })], function (_ck, _v) { _ck(_v, 1, 0); var currVal_0 = "decent"; var currVal_1 = "\u0414\u043E\u0431\u0440\u043E\u0441\u043E\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u043A\u043B\u0438\u0435\u043D\u0442"; var currVal_2 = "decent"; _ck(_v, 3, 0, currVal_0, currVal_1, currVal_2); }, null); }
 function View_CalculatorComponent_2(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 2, "rosa-hint", [["form-group", "hint"]], null, null, null, _modules_forms_hint_hint_hint_component_ngfactory__WEBPACK_IMPORTED_MODULE_6__["View_HintComponent_0"], _modules_forms_hint_hint_hint_component_ngfactory__WEBPACK_IMPORTED_MODULE_6__["RenderType_HintComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _modules_forms_hint_hint_hint_component__WEBPACK_IMPORTED_MODULE_7__["HintComponent"], [], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["\u0414\u043B\u044F \u043E\u0432\u0435\u0434\u0440\u0430\u0444\u0442\u0430 \u0441\u0440\u043E\u043A \u043D\u0435 \u0443\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u0442\u0441\u044F"]))], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
 function View_CalculatorComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 2, "rosa-hint", [["form-group", "hint"]], null, null, null, _modules_forms_hint_hint_hint_component_ngfactory__WEBPACK_IMPORTED_MODULE_6__["View_HintComponent_0"], _modules_forms_hint_hint_hint_component_ngfactory__WEBPACK_IMPORTED_MODULE_6__["RenderType_HintComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _modules_forms_hint_hint_hint_component__WEBPACK_IMPORTED_MODULE_7__["HintComponent"], [], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["\u0414\u043B\u044F \u043E\u0432\u0435\u0434\u0440\u0430\u0444\u0442\u0430 \u043B\u0438\u043C\u0438\u0442 \u043D\u0435 \u0443\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u0442\u0441\u044F"]))], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
-function View_CalculatorComponent_4(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 14, "rosa-form-group", [], null, null, null, _modules_forms_form_layout_form_group_form_group_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_FormGroupComponent_0"], _modules_forms_form_layout_form_group_form_group_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_FormGroupComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _modules_forms_form_layout_form_group_form_group_component__WEBPACK_IMPORTED_MODULE_3__["FormGroupComponent"], [], { layout: [0, "layout"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](2, 0, null, 0, 2, "rosa-label", [["form-group", "label"]], null, null, null, _modules_forms_label_label_label_component_ngfactory__WEBPACK_IMPORTED_MODULE_8__["View_LabelComponent_0"], _modules_forms_label_label_label_component_ngfactory__WEBPACK_IMPORTED_MODULE_8__["RenderType_LabelComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](3, 114688, null, 0, _modules_forms_label_label_label_component__WEBPACK_IMPORTED_MODULE_9__["LabelComponent"], [], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](4, 0, ["\u0421\u0440\u043E\u043A \u043A\u0440\u0435\u0434\u0438\u0442\u0430 (\u043E\u0442 ", " \u0434\u043E ", " \u043C\u0435\u0441.)"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](5, 0, null, 1, 6, "div", [["class", "input__suffix-group"], ["form-group", "control"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](6, 0, null, null, 3, "rosa-number", [], null, null, null, _modules_forms_number_number_number_component_ngfactory__WEBPACK_IMPORTED_MODULE_10__["View_NumberComponent_0"], _modules_forms_number_number_number_component_ngfactory__WEBPACK_IMPORTED_MODULE_10__["RenderType_NumberComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵprd"](5120, null, _angular_forms__WEBPACK_IMPORTED_MODULE_11__["NG_VALUE_ACCESSOR"], function (p0_0) { return [p0_0]; }, [_modules_forms_number_number_number_component__WEBPACK_IMPORTED_MODULE_12__["NumberComponent"]]), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵprd"](5120, null, _angular_forms__WEBPACK_IMPORTED_MODULE_11__["NG_VALIDATORS"], function (p0_0) { return [p0_0]; }, [_modules_forms_number_number_number_component__WEBPACK_IMPORTED_MODULE_12__["NumberComponent"]]), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](9, 114688, null, 0, _modules_forms_number_number_number_component__WEBPACK_IMPORTED_MODULE_12__["NumberComponent"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["Renderer2"]], { controlOptions: [0, "controlOptions"], min: [1, "min"], max: [2, "max"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](10, 0, null, null, 1, "div", [["class", "input-suffix"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["\u043C\u0435\u0441."])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](12, 0, null, 2, 2, "rosa-hint", [["form-group", "hint"]], null, null, null, _modules_forms_hint_hint_hint_component_ngfactory__WEBPACK_IMPORTED_MODULE_6__["View_HintComponent_0"], _modules_forms_hint_hint_hint_component_ngfactory__WEBPACK_IMPORTED_MODULE_6__["RenderType_HintComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](13, 114688, null, 0, _modules_forms_hint_hint_hint_component__WEBPACK_IMPORTED_MODULE_7__["HintComponent"], [], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["\u041F\u0440\u0438 \u0441\u0440\u043E\u043A\u0435 \u0431\u043E\u043B\u0435\u0435 60 \u043C\u0435\u0441. \u0443\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u0442\u0441\u044F \u0441\u0440\u043E\u043A 84 \u043C\u0435\u0441."]))], function (_ck, _v) { var _co = _v.component; var currVal_0 = "form-group_group"; _ck(_v, 1, 0, currVal_0); _ck(_v, 3, 0); var currVal_3 = _co.calculator.controls["range"]; var currVal_4 = _co.range.min; var currVal_5 = _co.range.max; _ck(_v, 9, 0, currVal_3, currVal_4, currVal_5); _ck(_v, 13, 0); }, function (_ck, _v) { var _co = _v.component; var currVal_1 = _co.range.min; var currVal_2 = _co.range.max; _ck(_v, 4, 0, currVal_1, currVal_2); }); }
+function View_CalculatorComponent_4(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 14, "rosa-form-group", [], null, null, null, _modules_forms_form_layout_form_group_form_group_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_FormGroupComponent_0"], _modules_forms_form_layout_form_group_form_group_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_FormGroupComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _modules_forms_form_layout_form_group_form_group_component__WEBPACK_IMPORTED_MODULE_3__["FormGroupComponent"], [], { layout: [0, "layout"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](2, 0, null, 0, 2, "rosa-label", [["form-group", "label"]], null, null, null, _modules_forms_label_label_label_component_ngfactory__WEBPACK_IMPORTED_MODULE_8__["View_LabelComponent_0"], _modules_forms_label_label_label_component_ngfactory__WEBPACK_IMPORTED_MODULE_8__["RenderType_LabelComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](3, 114688, null, 0, _modules_forms_label_label_label_component__WEBPACK_IMPORTED_MODULE_9__["LabelComponent"], [], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](4, 0, ["\u0421\u0440\u043E\u043A \u043A\u0440\u0435\u0434\u0438\u0442\u0430/\u0442\u0440\u0430\u043D\u0448\u0430 (\u043E\u0442 ", " \u0434\u043E ", " \u043C\u0435\u0441.)"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](5, 0, null, 1, 6, "div", [["class", "input__suffix-group"], ["form-group", "control"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](6, 0, null, null, 3, "rosa-number", [], null, null, null, _modules_forms_number_number_number_component_ngfactory__WEBPACK_IMPORTED_MODULE_10__["View_NumberComponent_0"], _modules_forms_number_number_number_component_ngfactory__WEBPACK_IMPORTED_MODULE_10__["RenderType_NumberComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵprd"](5120, null, _angular_forms__WEBPACK_IMPORTED_MODULE_11__["NG_VALUE_ACCESSOR"], function (p0_0) { return [p0_0]; }, [_modules_forms_number_number_number_component__WEBPACK_IMPORTED_MODULE_12__["NumberComponent"]]), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵprd"](5120, null, _angular_forms__WEBPACK_IMPORTED_MODULE_11__["NG_VALIDATORS"], function (p0_0) { return [p0_0]; }, [_modules_forms_number_number_number_component__WEBPACK_IMPORTED_MODULE_12__["NumberComponent"]]), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](9, 114688, null, 0, _modules_forms_number_number_number_component__WEBPACK_IMPORTED_MODULE_12__["NumberComponent"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["Renderer2"]], { controlOptions: [0, "controlOptions"], min: [1, "min"], max: [2, "max"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](10, 0, null, null, 1, "div", [["class", "input-suffix"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["\u043C\u0435\u0441."])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](12, 0, null, 2, 2, "rosa-hint", [["form-group", "hint"]], null, null, null, _modules_forms_hint_hint_hint_component_ngfactory__WEBPACK_IMPORTED_MODULE_6__["View_HintComponent_0"], _modules_forms_hint_hint_hint_component_ngfactory__WEBPACK_IMPORTED_MODULE_6__["RenderType_HintComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](13, 114688, null, 0, _modules_forms_hint_hint_hint_component__WEBPACK_IMPORTED_MODULE_7__["HintComponent"], [], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["\u041F\u0440\u0438 \u0441\u0440\u043E\u043A\u0435 \u0431\u043E\u043B\u0435\u0435 60 \u043C\u0435\u0441. \u0443\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u0442\u0441\u044F \u0441\u0440\u043E\u043A 84 \u043C\u0435\u0441."]))], function (_ck, _v) { var _co = _v.component; var currVal_0 = "form-group_group"; _ck(_v, 1, 0, currVal_0); _ck(_v, 3, 0); var currVal_3 = _co.calculator.controls["range"]; var currVal_4 = _co.range.min; var currVal_5 = _co.range.max; _ck(_v, 9, 0, currVal_3, currVal_4, currVal_5); _ck(_v, 13, 0); }, function (_ck, _v) { var _co = _v.component; var currVal_1 = _co.range.min; var currVal_2 = _co.range.max; _ck(_v, 4, 0, currVal_1, currVal_2); }); }
 function View_CalculatorComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵpid"](0, _angular_common__WEBPACK_IMPORTED_MODULE_13__["DecimalPipe"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["LOCALE_ID"]]), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](1, 0, null, null, 76, "div", [["class", "calculator-wrapper"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](2, 0, null, null, 75, "div", [["class", "pane-rows"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](3, 0, null, null, 73, "div", [["class", "pane pane-left"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](4, 0, null, null, 2, "div", [["class", "pane-header"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](5, 0, null, null, 1, "h1", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["\u041A\u0440\u0435\u0434\u0438\u0442\u043D\u044B\u0439 \u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](7, 0, null, null, 69, "div", [["class", "pane__calculator-form"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](8, 0, null, null, 68, "form", [["novalidate", ""]], [[2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "submit"], [null, "reset"]], function (_v, en, $event) { var ad = true; if (("submit" === en)) {
         var pd_0 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 10).onSubmit($event) !== false);
         ad = (pd_0 && ad);
@@ -11186,7 +11186,7 @@ function View_CalculatorComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED
     } return ad; }, _modules_forms_radio_radio_radio_component_ngfactory__WEBPACK_IMPORTED_MODULE_14__["View_RadioComponent_0"], _modules_forms_radio_radio_radio_component_ngfactory__WEBPACK_IMPORTED_MODULE_14__["RenderType_RadioComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](32, 114688, null, 0, _modules_forms_radio_radio_radio_component__WEBPACK_IMPORTED_MODULE_15__["RadioComponent"], [], { value: [0, "value"], name: [1, "name"], selected: [2, "selected"] }, { ClickEvent: "ClickEvent" }), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["\u041A\u0440\u0435\u0434\u0438\u0442"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](34, 0, null, 1, 2, "rosa-radio", [["form-group", "control"]], null, [[null, "ClickEvent"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("ClickEvent" === en)) {
         var pd_0 = (_co.setType($event) !== false);
         ad = (pd_0 && ad);
-    } return ad; }, _modules_forms_radio_radio_radio_component_ngfactory__WEBPACK_IMPORTED_MODULE_14__["View_RadioComponent_0"], _modules_forms_radio_radio_radio_component_ngfactory__WEBPACK_IMPORTED_MODULE_14__["RenderType_RadioComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](35, 114688, null, 0, _modules_forms_radio_radio_radio_component__WEBPACK_IMPORTED_MODULE_15__["RadioComponent"], [], { value: [0, "value"], name: [1, "name"] }, { ClickEvent: "ClickEvent" }), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["\u041E\u0432\u0435\u0440\u0434\u0440\u0430\u0444\u0442"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, 2, 1, null, View_CalculatorComponent_2)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](38, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_13__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](39, 0, null, null, 8, "rosa-form-group", [], null, null, null, _modules_forms_form_layout_form_group_form_group_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_FormGroupComponent_0"], _modules_forms_form_layout_form_group_form_group_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_FormGroupComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](40, 114688, null, 0, _modules_forms_form_layout_form_group_form_group_component__WEBPACK_IMPORTED_MODULE_3__["FormGroupComponent"], [], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](41, 0, null, 0, 2, "rosa-label", [["form-group", "label"]], null, null, null, _modules_forms_label_label_label_component_ngfactory__WEBPACK_IMPORTED_MODULE_8__["View_LabelComponent_0"], _modules_forms_label_label_label_component_ngfactory__WEBPACK_IMPORTED_MODULE_8__["RenderType_LabelComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](42, 114688, null, 0, _modules_forms_label_label_label_component__WEBPACK_IMPORTED_MODULE_9__["LabelComponent"], [], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["\u041B\u0438\u043C\u0438\u0442"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](44, 0, null, 1, 1, "rosa-dropdown-hoc", [["form-group", "control"]], null, [[null, "sendValue"], ["document", "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("document:click" === en)) {
+    } return ad; }, _modules_forms_radio_radio_radio_component_ngfactory__WEBPACK_IMPORTED_MODULE_14__["View_RadioComponent_0"], _modules_forms_radio_radio_radio_component_ngfactory__WEBPACK_IMPORTED_MODULE_14__["RenderType_RadioComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](35, 114688, null, 0, _modules_forms_radio_radio_radio_component__WEBPACK_IMPORTED_MODULE_15__["RadioComponent"], [], { value: [0, "value"], name: [1, "name"] }, { ClickEvent: "ClickEvent" }), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["\u041E\u0432\u0435\u0440\u0434\u0440\u0430\u0444\u0442"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, 2, 1, null, View_CalculatorComponent_2)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](38, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_13__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](39, 0, null, null, 8, "rosa-form-group", [], null, null, null, _modules_forms_form_layout_form_group_form_group_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_FormGroupComponent_0"], _modules_forms_form_layout_form_group_form_group_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_FormGroupComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](40, 114688, null, 0, _modules_forms_form_layout_form_group_form_group_component__WEBPACK_IMPORTED_MODULE_3__["FormGroupComponent"], [], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](41, 0, null, 0, 2, "rosa-label", [["form-group", "label"]], null, null, null, _modules_forms_label_label_label_component_ngfactory__WEBPACK_IMPORTED_MODULE_8__["View_LabelComponent_0"], _modules_forms_label_label_label_component_ngfactory__WEBPACK_IMPORTED_MODULE_8__["RenderType_LabelComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](42, 114688, null, 0, _modules_forms_label_label_label_component__WEBPACK_IMPORTED_MODULE_9__["LabelComponent"], [], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["\u041B\u0438\u043C\u0438\u0442 \u043A\u0440\u0435\u0434\u0438\u0442\u043E\u0432\u0430\u043D\u0438\u044F"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](44, 0, null, 1, 1, "rosa-dropdown-hoc", [["form-group", "control"]], null, [[null, "sendValue"], ["document", "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("document:click" === en)) {
         var pd_0 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 45).onCLick($event.target) !== false);
         ad = (pd_0 && ad);
     } if (("sendValue" === en)) {
@@ -11285,156 +11285,156 @@ var CalculatorComponent = /** @class */ (function () {
                 amount_10: {
                     // до 12 мес
                     period_one: {
-                        full: 4.20,
-                        col_one: 4.90,
-                        col_two: 5.80,
-                        col_three: 7.20,
+                        full: 3.75,
+                        col_one: 4.45,
+                        col_two: 5.35,
+                        col_three: 6.75,
                     },
                     // 12-36 мес
                     period_two: {
-                        full: 4.20,
-                        col_one: 5.20,
-                        col_two: 6.10,
-                        col_three: 7.60,
+                        full: 3.75,
+                        col_one: 4.75,
+                        col_two: 5.65,
+                        col_three: 7.15,
                     },
                     period_three: {
-                        full: 4.20,
-                        col_one: 5.40,
-                        col_two: 6.40,
-                        col_three: 7.90,
+                        full: 3.75,
+                        col_one: 4.95,
+                        col_two: 5.95,
+                        col_three: 7.45,
                     },
                     period_fourth: {
-                        full: 4.20,
-                        col_one: 5.40,
-                        col_two: 6.40,
-                        col_three: 7.90,
+                        full: 3.75,
+                        col_one: 4.95,
+                        col_two: 5.95,
+                        col_three: 7.45,
                     },
                 },
                 amount_11: {
                     // до 12 мес
                     period_one: {
-                        full: 4.20,
-                        col_one: 4.60,
-                        col_two: 5.50,
-                        col_three: 7.00,
+                        full: 3.75,
+                        col_one: 4.15,
+                        col_two: 5.05,
+                        col_three: 6.55,
                     },
                     // 12-36 мес
                     period_two: {
-                        full: 4.20,
-                        col_one: 4.90,
-                        col_two: 5.80,
-                        col_three: 7.40,
+                        full: 3.75,
+                        col_one: 4.45,
+                        col_two: 5.35,
+                        col_three: 6.95,
                     },
                     period_three: {
-                        full: 4.20,
-                        col_one: 5.10,
-                        col_two: 6.10,
-                        col_three: 7.70,
+                        full: 3.75,
+                        col_one: 4.65,
+                        col_two: 5.65,
+                        col_three: 7.25,
                     },
                     period_fourth: {
-                        full: 4.20,
-                        col_one: 5.10,
-                        col_two: 6.10,
-                        col_three: 7.70,
+                        full: 3.75,
+                        col_one: 4.65,
+                        col_two: 5.65,
+                        col_three: 7.25,
                     },
                 },
                 overdraft: {
-                    one: 4.5,
-                    two: 4.6,
-                    three: 4.8,
-                    without: 5.3,
+                    one: 4.05,
+                    two: 4.15,
+                    three: 4.35,
+                    without: 4.85,
                 },
             },
             small: {
                 amount_10: {
                     // до 12 мес
                     period_one: {
-                        full: 4,
-                        col_one: 4.20,
-                        col_two: 4.7,
-                        col_three: 5.5,
+                        full: 3.55,
+                        col_one: 3.75,
+                        col_two: 4.25,
+                        col_three: 5.05,
                     },
                     // 12-36 мес
                     period_two: {
-                        full: 4,
-                        col_one: 4.5,
-                        col_two: 5,
-                        col_three: 5.9,
+                        full: 3.55,
+                        col_one: 4.05,
+                        col_two: 4.55,
+                        col_three: 5.45,
                     },
                     period_three: {
-                        full: 4,
-                        col_one: 4.7,
-                        col_two: 5.3,
-                        col_three: 6.2,
+                        full: 3.55,
+                        col_one: 4.25,
+                        col_two: 4.85,
+                        col_three: 5.75,
                     },
                     period_fourth: {
-                        full: 4,
-                        col_one: 4.7,
-                        col_two: 5.3,
-                        col_three: 6.2,
+                        full: 3.55,
+                        col_one: 4.25,
+                        col_two: 4.85,
+                        col_three: 5.75,
                     },
                 },
                 amount_11: {
                     // до 12 мес
                     period_one: {
-                        full: 4,
-                        col_one: 4.1,
-                        col_two: 4.5,
-                        col_three: 5,
+                        full: 3.55,
+                        col_one: 3.65,
+                        col_two: 4.05,
+                        col_three: 4.55,
                     },
                     // 12-36 мес
                     period_two: {
-                        full: 4,
-                        col_one: 4.4,
-                        col_two: 4.8,
-                        col_three: 5.4,
+                        full: 3.55,
+                        col_one: 3.95,
+                        col_two: 4.35,
+                        col_three: 4.95,
                     },
                     period_three: {
-                        full: 4,
-                        col_one: 4.6,
-                        col_two: 5.1,
-                        col_three: 5.7,
+                        full: 3.55,
+                        col_one: 4.15,
+                        col_two: 4.65,
+                        col_three: 5.25,
                     },
                     period_fourth: {
-                        full: 4,
-                        col_one: 4.6,
-                        col_two: 5.1,
-                        col_three: 5.7,
+                        full: 3.55,
+                        col_one: 4.15,
+                        col_two: 4.65,
+                        col_three: 5.25,
                     },
                 },
                 amount_20: {
                     // до 12 мес
                     period_one: {
-                        full: 4,
-                        col_one: 3.60,
-                        col_two: 4,
-                        col_three: 4,
+                        full: 3.55,
+                        col_one: 3.15,
+                        col_two: 3.55,
+                        col_three: 3.55,
                     },
                     // 12-36 мес
                     period_two: {
-                        full: 4,
-                        col_one: 3.9,
-                        col_two: 4.3,
-                        col_three: 4.4,
+                        full: 3.55,
+                        col_one: 3.45,
+                        col_two: 3.85,
+                        col_three: 3.95,
                     },
                     period_three: {
-                        full: 4,
-                        col_one: 4.1,
-                        col_two: 4.6,
-                        col_three: 4.7,
+                        full: 3.55,
+                        col_one: 3.65,
+                        col_two: 4.15,
+                        col_three: 4.25,
                     },
                     period_fourth: {
-                        full: 4,
-                        col_one: 4.1,
-                        col_two: 4.6,
-                        col_three: 4.7,
+                        full: 3.55,
+                        col_one: 3.65,
+                        col_two: 4.15,
+                        col_three: 4.25,
                     },
                 },
                 overdraft: {
-                    one: 4.4,
-                    two: 4.5,
-                    three: 4.6,
-                    without: 4.7,
+                    one: 3.95,
+                    two: 4.05,
+                    three: 4.15,
+                    without: 4.25,
                 },
             }
         };
