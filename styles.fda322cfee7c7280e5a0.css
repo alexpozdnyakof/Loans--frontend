@@ -3662,7 +3662,7 @@ html {
   box-sizing: inherit; }
 :root {
   --c-background: #f8f8f8;
-  --c-text: #282423;
+  --c-text: #3D3837;
   --c-text-tertiary: #808080; }
 :root {
   --color-primary: #e60028;
@@ -3681,8 +3681,8 @@ html {
   --color-warning: #f90;
   --color-normal: #dde3e5;
   --color-system: #778a9b;
-  --color-typo-primary: #282423;
-  --color-typo-header: #282423;
+  --color-typo-primary: #3D3837;
+  --color-typo-header: #3D3837;
   --color-typo-secondary: #4C4948;
   --color-typo-list: #5A5858;
   --color-typo-tertiary: #8B8A88;
@@ -3695,7 +3695,7 @@ html {
   --color-link-external: #2687FB;
   --color-link-minor: #807D7D;
   --color-link-hover: #c00;
-  --color-inverse: #282423;
+  --color-inverse: #3D3837;
   --color-border-control-alt: #c4c4c4;
   --color-border-control: #d9d8d8;
   --color-default-ios: #fff;
@@ -3786,7 +3786,7 @@ html {
   --gray-light: #f8f8f8;
   --gray-back: #f5f5f5; }
 body {
-  font-family: "OpenSans";
+  font-family: "Graphik LC Web";
   font-weight: normal;
   color: var(--color-text-primary);
   font-size: 14px;
